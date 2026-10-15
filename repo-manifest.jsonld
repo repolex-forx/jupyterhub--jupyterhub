@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub/commit/10c37af3bfe6aad9676c6decde14a6f6b2dd11d0",
       "git:hexsha": "10c37af3bfe6aad9676c6decde14a6f6b2dd11d0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "6.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "6.1.0",
+      "repolex:parsedAt": "2026-10-15T11:38:00.320637+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub/commit/cf2b2fb76e842a424089abb5d1a97aff24e04b35",

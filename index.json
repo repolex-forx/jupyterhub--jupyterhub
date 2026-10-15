@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "jupyterhub",
+  "versions": [
+    {
+      "commit": "10c37af3bfe6aad9676c6decde14a6f6b2dd11d0",
+      "tag": "6.1.0",
+      "parsed_at": "2026-10-15T11:38:00.378624+00:00"
+    }
+  ]
+}
